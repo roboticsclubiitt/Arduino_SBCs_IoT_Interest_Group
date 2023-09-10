@@ -37,5 +37,3 @@ Connect with us:
 - [Email](techmaniacs@iittp.ac.in)
 
 Happy tinkering!
-
-![Arduino_Logo](https://github.com/roboticsclubiitt/Arduino_SBCs_IoT_Interest_Group/assets/143396266/f72cbec1-b1c8-480a-9352-f1fd9001108f)
