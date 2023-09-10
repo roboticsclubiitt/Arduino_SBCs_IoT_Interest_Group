@@ -38,4 +38,4 @@ Connect with us:
 
 Happy tinkering!
 
-![Arduino Logo]([arduino_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AArduino_Logo.svg&psig=AOvVaw1_7o14mSkn8Vl7xEXGA2ah&ust=1694444098210000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiRqaemoIEDFQAAAAAdAAAAABAP)https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AArduino_Logo.svg&psig=AOvVaw1_7o14mSkn8Vl7xEXGA2ah&ust=1694444098210000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiRqaemoIEDFQAAAAAdAAAAABAP)
+![Arduino_Logo](https://github.com/roboticsclubiitt/Arduino_SBCs_IoT_Interest_Group/assets/143396266/f72cbec1-b1c8-480a-9352-f1fd9001108f)
