@@ -1,7 +1,7 @@
 # Obstacle Avoiding Robot Documentation
 
 ## Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](Introduction)
 2. [Hardware Components](#hardware-components)
    - [Arduino Uno](#arduino-uno)
    - [Servo Motor](#servo-motor)
