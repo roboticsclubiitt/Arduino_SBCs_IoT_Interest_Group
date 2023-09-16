@@ -50,7 +50,7 @@ This GitHub documentation provides step-by-step instructions on building an obst
 [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## 5. Wiring Diagram
-- Photo Coming
+- ![Circuit](Circuit_Diagram.png)
 
 ## 6. Arduino Code
 
