@@ -55,4 +55,4 @@ This GitHub documentation provides step-by-step instructions on building an obst
 ## 6. Arduino Code
 
 ```arduino
-[Obstacle_Avoiding_Robo.ino](Obstacle_Avoiding_Car/obstacle_avdng)
+[Obstacle_Avoiding_Robo.ino](https://github.com/roboticsclubiitt/Arduino_SBCs_IoT_Interest_Group/tree/main/Obstacle_Avoiding_Car/obstacle_avdng)
