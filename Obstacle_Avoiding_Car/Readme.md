@@ -55,3 +55,15 @@ This GitHub documentation provides step-by-step instructions on building an obst
 ## 6. Arduino Code
 
 [Obstacle_Avoiding_Robo.ino](obstacle_avdng/obstacle_avdng.ino)
+
+## 7. Operation
+- ![Robo](robo.jpg)
+
+## 8. Trobuleshooting
+-
+
+## 9. Contributing
+- This project was created by @prax-1
+
+## 10. License
+- [License](license.md)
