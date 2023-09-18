@@ -66,4 +66,4 @@ This GitHub documentation provides step-by-step instructions on building an obst
 - This project was created by @prax-1
 
 ## 10. License
-- [License](license.md)
+- [License](../LICENSE)
