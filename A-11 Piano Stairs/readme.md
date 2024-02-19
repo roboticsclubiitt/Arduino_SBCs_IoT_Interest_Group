@@ -31,8 +31,10 @@ To set up Pianostairs for your own event or installation, follow these steps:
 
 ## Contributors
 
-- [Prakhar]()
+- [Prakhar](https://www.github.com/prax-1/)
 - [Bhavesh]()
+- [Divyam](https://www.GitHub.com/divyam27-1/)
+- [Rohit]()
 
 ## License
 
